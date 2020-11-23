@@ -24,6 +24,10 @@ This challenge is simple: use machine learning techniques to create a model that
 - Write the code for Google Electra model using simpletransformers lib
 - Tune it
 
+#### Results 
+We are pleased to have been able to test pre-trained models that represent the state of the art in machine learning. We could directly experience the effectiveness of such models because by using Electra we scored at the top of the Kaggle leaderboard.
+<p><img src="https://github.com/kumarmanishjha/CodeML-Hackathon/blob/main/challenge4/submissions/pic.png" width=35% height=35%></p>
+We are looking forward to see the solutions of the others participants.
 ## Challenge 5
 
 You have a zip file of images of 10 differents objects: **'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck' **
