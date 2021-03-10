@@ -2,10 +2,14 @@
 
 ## Information
  
-CodeML was an hackathon organised by PolyAI on Nob 21, 22. Spread over 48 hours, it consisted of a series of challenges on machine learning of increasing difficulty. 
+CodeML was an hackathon organised by PolyAI on Nob 21, 22. Spread over 48 hours, it consisted of a series of challenges on machine learning of increasing difficulty.
+Challenge 1: https://www.kaggle.com/c/codeml-challenge1
+Challenge 2: https://www.kaggle.com/t/89d6793c835b471d899bb01b4d16b4c9
+Challenge 3: https://www.kaggle.com/t/010d029808954f21ac6e0c63a6d129f8
+Challenge 4: https://www.kaggle.com/c/codeml-challenge4
+Challenge 5: https://www.kaggle.com/c/codeml-challenge5
 
-We participated in teams of 4 in different challenges and we posted here our code for challenge 4 and challenge 5.
-
+Details on Challenge 4 and 5
 ## Challenge 4
 
 Consumers have left comments (texts) of the last product they just used. We would like to know if it is possible to determine if the comments are positive or negative in the future for other products.
