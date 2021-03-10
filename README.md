@@ -3,11 +3,18 @@
 ## Information
  
 CodeML was an hackathon organised by PolyAI on Nob 21, 22. Spread over 48 hours, it consisted of a series of challenges on machine learning of increasing difficulty.
+
 Challenge 1: https://www.kaggle.com/c/codeml-challenge1
+
 Challenge 2: https://www.kaggle.com/t/89d6793c835b471d899bb01b4d16b4c9
+
 Challenge 3: https://www.kaggle.com/t/010d029808954f21ac6e0c63a6d129f8
+
 Challenge 4: https://www.kaggle.com/c/codeml-challenge4
+
 Challenge 5: https://www.kaggle.com/c/codeml-challenge5
+
+
 
 Details on Challenge 4 and 5
 ## Challenge 4
